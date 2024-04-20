@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+  <h2>About me</h2>
+  <p>Junior Programmer</p>
   <h2>💻 Skills</h2>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
