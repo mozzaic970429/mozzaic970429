@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
-  <h2>💻 Stack</h2>
+  <h2>💻 Skills</h2>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
@@ -33,8 +33,12 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 
-  <h2> IDE</h2>
-  
+  <h2>👤 Contact</h2>
+  <div align= "center">
+    <a href=mailto:jangsh970429@gmail.com>
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jangsh970429@gmail.com">
+    </a>
+  </div>
     
   <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />  
 </div>
